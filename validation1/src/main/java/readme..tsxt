@@ -1,0 +1,16 @@
+
+
+ Validation - 1
+ 
+ 학습 목표
+ 
+ 1. Validatino 대한 이해
+ 2. 어노테이션 사용하는 방법
+ 
+ Validatiopon이란 프로그래밍에 있어서 가장 필요한 부분중 하나 입니ㅏ.
+ 
+ 특히 자바에서는 null 값에 대해서 접근 하려고 할 때 null pointException 발생 하기 떄문에
+ 이러한 부분을 방지하기 위해서 미리 검증하는 과정을 valitaio 한다ㅏ.
+ 
+ 
+ 
